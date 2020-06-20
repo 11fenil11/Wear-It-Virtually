@@ -1,0 +1,2 @@
+RUN COMMAND:-
+./run_smartfit.sh inputs/example_person.jpg inputs/example_clothing.jpg
